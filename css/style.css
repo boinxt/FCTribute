@@ -3,7 +3,17 @@ body, html, ul, li, img, div{
 }
 body{
   width:100%;
-  margin: 50px auto;
+  margin: 2% auto;
+}
+#title{
+  
+}
+#img-div{
+  text-align:center;
+  margin-bottom: 2%;
+}
+#image{
+  width: 15%;
 }
 .auto-slider img{
   display: block;
@@ -55,8 +65,4 @@ body{
   }
   75%, 90%{
     transform:translateX(0);
-  }
-#video{
-    marign-top: 40px;
-    text-align: center;
   }
